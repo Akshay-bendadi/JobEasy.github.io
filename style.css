@@ -191,7 +191,7 @@ li{
     padding: 25px;
     color: white;
     height: 250px;
-    width: 388px;
+    width: 400px;
 }
 .font-set{
     position: relative;
@@ -251,6 +251,6 @@ bottom: 70px;
 }
 .box1{
     margin: 10px 0px 10px 0px;
-    border: 2px solid red;
+    border: 2px solid rgb(222, 204, 204);
     height: 90px;
 }
